@@ -1,0 +1,15 @@
+/workspaces/wk05_lab18_theatre_W/bin/Debug/net8.0/wk05_lab18_theatre_W
+/workspaces/wk05_lab18_theatre_W/bin/Debug/net8.0/wk05_lab18_theatre_W.deps.json
+/workspaces/wk05_lab18_theatre_W/bin/Debug/net8.0/wk05_lab18_theatre_W.runtimeconfig.json
+/workspaces/wk05_lab18_theatre_W/bin/Debug/net8.0/wk05_lab18_theatre_W.dll
+/workspaces/wk05_lab18_theatre_W/bin/Debug/net8.0/wk05_lab18_theatre_W.pdb
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.AssemblyInfoInputs.cache
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.AssemblyInfo.cs
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.csproj.CoreCompileInputs.cache
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.sourcelink.json
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.dll
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/refint/wk05_lab18_theatre_W.dll
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.pdb
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/wk05_lab18_theatre_W.genruntimeconfig.cache
+/workspaces/wk05_lab18_theatre_W/obj/Debug/net8.0/ref/wk05_lab18_theatre_W.dll
